@@ -6,3 +6,4 @@ pydantic
 streamlit
 SpeechRecognition
 audio-recorder-streamlit
+rag-evaluator
