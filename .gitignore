@@ -1,5 +1,6 @@
 # Python
 venv/
+.venv/
 __pycache__/
 *.pyc
 .env
@@ -8,12 +9,9 @@ __pycache__/
 # Node
 node_modules/
 
-# OS files
+# OS
 .DS_Store
 Thumbs.db
 
 # VS Code
 .vscode/
-
-# Git
-.git/
